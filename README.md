@@ -2,6 +2,10 @@
 
 An original, calm naval guessing game inspired by classic Battleship. Deploy five ships, read the water, and outwit a fair computer rival. Original SVG illustration, typography, interface and title; no third-party art, fonts, services or runtime dependencies.
 
+## Play online
+
+[Play Quiet Meridian](https://intrepion.github.io/kata-inspired-by-battleship-codex-dot/) — free, playable in your browser.
+
 ## Play locally
 
 Open `index.html` directly in a modern browser, or run:
