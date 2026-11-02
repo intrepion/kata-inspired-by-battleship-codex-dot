@@ -1,6 +1,51 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "gameId": "kata-inspired-by-battleship-codex-dot",
   "playUrl": "https://intrepion.github.io/kata-inspired-by-battleship-codex-dot/",
-  "screenshots": []
+  "screenshots": [
+    {
+      "path": "arcade/screenshots/ci-20261102-01.jpg",
+      "sha256": "46add55dd531c04852309c944017f5db92444fe9d5cead71822cbab92ae5234e",
+      "alt": "Quiet Meridian gameplay, view 1",
+      "provenance": {
+        "kind": "ci_gameplay_capture",
+        "sourcePath": "arcade/capture-evidence/ci-20261102-01.png",
+        "sourceSha256": "fc767ad49ddb8f94542ccb7627bbdbd2014f0b946105f8d00d4da54fdcb86d54",
+        "captureCommit": "4b337184a1d2bca8aaee24435c21abef82176d60",
+        "workflowRunId": "41380108423",
+        "inputHashes": {
+          "index.html": "aef2cc51130a561ebcfb2e32bb098151cb8bfe898e2e2d0654992726fe706e09",
+          "styles.css": "9e32a7651eec48a22f66454d3fbf1293c3cde892dd524ca032d5214b55e058ce",
+          "engine.js": "8957b22c02cd2635ab45d96fb7b6636786f73822a17551ff4cf7300e00a3dab7",
+          "game.js": "594faa178f9640f4fafdc1249a686cd70d3c8abf0118364fa8f422f2f0aa0f02",
+          "icon.svg": "983a5c74ae0c7cc359d5d1336345c9de053a54c8ae436ed0eb1243b1e097322f"
+        },
+        "publishedFilesVerifiedAt": "2026-11-02T19:01:20Z",
+        "captureRecordPath": "arcade/capture-evidence/ci-20261102-record.json",
+        "captureRecordSha256": "16e42b5ee78d5eaa51f0053cc50d64acd27221b7907a443004cf887d9a987209"
+      }
+    },
+    {
+      "path": "arcade/screenshots/ci-20261102-02.jpg",
+      "sha256": "08528a28184de5b6b14ceb6bbf1fefdb38facceed32763b70dca8824397ebd49",
+      "alt": "Quiet Meridian gameplay, view 2",
+      "provenance": {
+        "kind": "ci_gameplay_capture",
+        "sourcePath": "arcade/capture-evidence/ci-20261102-02.png",
+        "sourceSha256": "d5da2ad821fdd32cd72386015cf601929ce8d64e38692109d54de7629052dcb6",
+        "captureCommit": "4b337184a1d2bca8aaee24435c21abef82176d60",
+        "workflowRunId": "41380108423",
+        "inputHashes": {
+          "index.html": "aef2cc51130a561ebcfb2e32bb098151cb8bfe898e2e2d0654992726fe706e09",
+          "styles.css": "9e32a7651eec48a22f66454d3fbf1293c3cde892dd524ca032d5214b55e058ce",
+          "engine.js": "8957b22c02cd2635ab45d96fb7b6636786f73822a17551ff4cf7300e00a3dab7",
+          "game.js": "594faa178f9640f4fafdc1249a686cd70d3c8abf0118364fa8f422f2f0aa0f02",
+          "icon.svg": "983a5c74ae0c7cc359d5d1336345c9de053a54c8ae436ed0eb1243b1e097322f"
+        },
+        "publishedFilesVerifiedAt": "2026-11-02T19:01:20Z",
+        "captureRecordPath": "arcade/capture-evidence/ci-20261102-record.json",
+        "captureRecordSha256": "16e42b5ee78d5eaa51f0053cc50d64acd27221b7907a443004cf887d9a987209"
+      }
+    }
+  ]
 }

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "workflowCommit": "bb6157b42a9e05713087898a43c05321d3be8549",
+  "sourceCommit": "4b337184a1d2bca8aaee24435c21abef82176d60",
+  "runId": "41380108423",
+  "url": "http://127.0.0.1:4181/",
+  "inputs": {
+    "index.html": "aef2cc51130a561ebcfb2e32bb098151cb8bfe898e2e2d0654992726fe706e09",
+    "styles.css": "9e32a7651eec48a22f66454d3fbf1293c3cde892dd524ca032d5214b55e058ce",
+    "engine.js": "8957b22c02cd2635ab45d96fb7b6636786f73822a17551ff4cf7300e00a3dab7",
+    "game.js": "594faa178f9640f4fafdc1249a686cd70d3c8abf0118364fa8f422f2f0aa0f02",
+    "icon.svg": "983a5c74ae0c7cc359d5d1336345c9de053a54c8ae436ed0eb1243b1e097322f"
+  },
+  "browser": "153.0.8010.12",
+  "viewport": {
+    "width": 1280,
+    "height": 1000
+  },
+  "seed": 1989,
+  "screenshots": [
+    "fleet-01.png",
+    "fleet-02.png"
+  ]
+}
