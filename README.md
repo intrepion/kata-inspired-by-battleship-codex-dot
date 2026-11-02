@@ -44,3 +44,7 @@ See `docs/VERIFICATION.md` for actual results and limits, `docs/DESIGN.md` for s
 `engine.js` contains pure placement, shot, turn and result logic. `game.js` owns the DOM and cancellable computer delay. The AI receives copied shot reports only: it targets neighboring unresolved hits and otherwise searches a checkerboard before the remaining cells. It never receives fleet positions. This is an honest opponent, not an optimal probability solver. Ships are revealed when a match ends.
 
 MIT licensed. No paid services or deployment are required.
+
+## Arcade metadata
+
+See [docs/arcade-metadata.md](docs/arcade-metadata.md) for the game-owned manifest and screenshot provenance.
